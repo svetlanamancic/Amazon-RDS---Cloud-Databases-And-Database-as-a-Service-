@@ -1,6 +1,6 @@
 Seminarski iz predmeta Sistemi za upravljanje bazama podataka na temu Cloud i distribuirane baze podataka na primeru Amazon RDS.
 
-U cilju demonstracije rada Amazon RDS servisa kreirala sam instancu na AWS-u, a sistem opisan u radu prikazan je na sledećoj slici.
+U cilju demonstracije rada Amazon RDS servisa kreirana je instanca na AWS-u, a sistem opisan u radu prikazan je na sledećoj slici.
 
 
 ![image](https://github.com/user-attachments/assets/3985fbd2-eecf-4cf4-9014-f34f30dcc496)
